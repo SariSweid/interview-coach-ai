@@ -1,0 +1,15 @@
+# Python virtual environment — never push this (huge + machine-specific)
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables — contains secret API keys
+.env
+
+# Python egg info
+*.egg-info/
+dist/
+build/
